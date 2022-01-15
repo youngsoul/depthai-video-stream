@@ -18,7 +18,7 @@ There are 2 compute devices:
 
 * Host Computer
 
-You defined the image processing that happens on the OAK using a processing pipeline metaphore.  You define the nodes of a pipeline, and then the last node is an 'XLinkOut' which will send data to the host computer.
+You defined the image processing that happens on the OAK using a processing pipeline metaphor.  You define the nodes of a pipeline, and then the last node is an 'XLinkOut' which will send data to the host computer.
 
 For the very simple videostream example we will need 2 nodes:
 
