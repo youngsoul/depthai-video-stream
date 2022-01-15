@@ -8,7 +8,7 @@ The souce for the DepthAI API/SDK can be found on their [Github repo](https://gi
 
 The figure below is from the Luxonis DepthAI API documentation.
 
-![OakHostPipeline](./media/oak-arch.png)
+![OakHostPipeline](./media/oak-arcj.png)
 
 There are 2 compute devices:
 
