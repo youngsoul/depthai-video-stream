@@ -1,5 +1,7 @@
 # Using the OpenCV AI DepthAI API to create a simple video feed of the OAK-1 device
 
+[OAK](./media/OAK-1_1600x.jpg)
+
 This repo contains the simplest of all examples to fire up the OAK-1 and see a video feed.
 
 The best place to start is with the [Luxonis Documentation](https://docs.luxonis.com/projects/api/en/latest/).
